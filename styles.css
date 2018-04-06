@@ -1,0 +1,15 @@
+ p {
+   color: #3fd5a8;
+ }
+
+ a:hover {
+   color: #3fd5a8;
+ }
+
+ header h1 {
+   font-size: 4em;
+ }
+
+body > ul li {
+  display: inline-block;
+}
